@@ -9,4 +9,5 @@
   <li>Network Access/Link Layer</li>
   <li>Physical Layer</li>
 </ol> 
+<img src="https://ibb.co/F3WXVnN" height="700" width="500" />
 <h1>simulation is done using swing in java</h1>
