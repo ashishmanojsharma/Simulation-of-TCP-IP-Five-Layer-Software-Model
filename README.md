@@ -11,4 +11,13 @@
 </ol> 
 <h2>Work Flow of Model-</h2>
 <a href="https://ibb.co/F3WXVnN"><img src="https://i.ibb.co/549kF2t/rabin-karpimg.jpg" alt="rabin-karpimg" border="0"></a>
-<h1>simulation is done using swing in java</h1>
+<h2>Sample Snapshots:-</h2>
+<h2>Step-1:-</h2>
+<p>UI look's like this-</p>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LCZgH73/ss1.jpg" alt="ss1" border="0"></a>
+<h2>Step-2:-</h2>
+<p>Enter Message.</p>
+<p>Press START.</p>
+<p>Final output will look like this-</p>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QFMMcJB/ss2.jpg" alt="ss2" border="0"></a>
+<h1>Simulation is done using swing in java.</h1>
